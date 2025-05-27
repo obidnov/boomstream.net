@@ -3,3 +3,4 @@ theme: jekyll-theme-minima
 title: Boomstream
 description: Boomstream Video Platform
 show_downloads: false
+site_favicon: favicon.png
