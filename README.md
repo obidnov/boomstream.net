@@ -1,4 +1,4 @@
 # boomstream
-[Vendor](https://boomstream.com)
+[Boomstream.com vendor](https://boomstream.com)
 
-![Logo]([/logo.webp))
+![Boomstreaam logo](/logo.webp))
